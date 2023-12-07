@@ -865,7 +865,14 @@ h6 {
 
 .icon-top .icon-block-description {
     padding-top: 25px;
+    transition: all 0.3s;
 }
+
+.icon-block-description:hover {
+    transform: scale(1.1);
+
+}
+
 
 /* --------- 5.2 Parallax Elements ---------- */
 
