@@ -1,5 +1,5 @@
 {
-    "htmlVoidElements": true,
+    "htmlVoidElements": false,
     "tabWidth": 4,
     "useTabs": false
 }
